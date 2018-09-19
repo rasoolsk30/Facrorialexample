@@ -5,7 +5,7 @@
     <artifactId>FactorialExample</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <dependencies>
+    
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
